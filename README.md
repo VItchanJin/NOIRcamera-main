@@ -23,6 +23,10 @@
     >
     > 프레임 3개를 서로 비교하여 변화 감지시 움직임을 감지합니다.
     >
+    > detect 감지시 Videocapture write
+    >
+    > detect_capture 디렉토리에 저장
+    >
     > 종료시 'q' 입력
     >
     >https://picamera.readthedocs.io/en/release-1.13/recipes1.html
