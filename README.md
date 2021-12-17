@@ -1,22 +1,18 @@
 # NOIRcamera 
 ## motion_detect_tracing
 
-+ 
 ## [install lib]
 
     ```pip install opencv-python```
 
     ```pip install opencv-contrib-python```
 
-
-+ 
-## [Run]motion_detect_tracing
+## [Run]
     + Camera connect
        ``` python -m motion_detect_tracing```
     + Camera disconnect
         ```python -m motion_detect_tracing -v video.avi```
 
-+ 
 ## [Explanation]
     > 카메라 사용시 "Camera connect!!"
     >
