@@ -8,9 +8,12 @@
 ```pip install opencv-contrib-python```
 
 ## [Run]
-    + Camera connect
++ Camera connect
+
 ``` python -m motion_detect_tracing```
-    + Camera disconnect
+
++ Camera disconnect
+
 ```python -m motion_detect_tracing -v video.avi```
 
 ## [Explanation]
