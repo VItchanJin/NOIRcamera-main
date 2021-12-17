@@ -3,9 +3,9 @@
 
 + Run:motion_detect_tracing
     + Camera connect
-        python -m motion_detect_tracing
+       ``` python -m motion_detect_tracing```
     + Camera disconnect
-        python -m motion_detect_tracing -v video.avi
+        ```python -m motion_detect_tracing -v video.avi```
 
 + Explanation
     > 카메라 사용시 "Camera connect!!"
