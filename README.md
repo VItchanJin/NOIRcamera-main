@@ -3,9 +3,9 @@
 
 ## [install lib]
 
-    ```pip install opencv-python```
+```pip install opencv-python```
 
-    ```pip install opencv-contrib-python```
+```pip install opencv-contrib-python```
 
 ## [Run]
     + Camera connect
